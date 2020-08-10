@@ -73,7 +73,7 @@ typedef struct BoxStruct_struct {
  * to say that the function returns a @c void or an @c int. If you want to have
  * more than one word in typewriter font, then just use @<tt@>.
  * We can also include text verbatim,
- * @verbatim like this@endverbatim
+ * @verbatim like this@endverbatimxvxv
  * Sometimes it is also convenient to include an example of usage:
  * @code
  * BoxStruct *out = Box_The_Function_Name(param1, param2);
